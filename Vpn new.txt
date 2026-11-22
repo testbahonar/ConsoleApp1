@@ -1,0 +1,1 @@
+vless://cb3e4fbe-ce22-440e-bf0f-7e485b2b9784@bot.smartwatchgallery.ir:2053?encryption=none&type=ws&security=tls&sni=bot.smartwatchgallery.ir&insecure=0&allowInsecure=0&host=bot.smartwatchgallery.ir#%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84-WIFI
