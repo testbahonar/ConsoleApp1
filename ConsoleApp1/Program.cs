@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("hellogithub");
             Console.WriteLine("ali");
+            cw
           
     }
 }
